@@ -40,7 +40,7 @@ echo 123;
 - 用-表达列表的强大存在意义：中文下*的符号是×（至少在谷歌输入法中是这样的），如果用
 -来替代，那么完全不需要切换输入法，一个字：强
 
-First Header | Second Header
-- | -
+First Header1 | Second Header2
+-- | --
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
