@@ -41,6 +41,9 @@ echo 123;
 -来替代，那么完全不需要切换输入法，一个字：强
 
 First Header | Second Header
-- | -
+-- | --
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
